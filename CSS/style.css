@@ -1,5 +1,6 @@
 body{
     background-color: #262626;
+    color:#fff !important;
 }
 
 .custom_color_bg{
@@ -7,4 +8,11 @@ body{
 };
 .custom_text_color{
     color:white ;
-};
+}
+
+.card_custom_bg{
+    background-color:#313131 !important;
+}
+ .list_div a{
+padding: 5px !important;
+} 
