@@ -1,0 +1,10 @@
+body{
+    background-color: #262626;
+}
+
+.custom_color_bg{
+    background-color: #3178C6 !important ;
+};
+.custom_text_color{
+    color:white ;
+};
